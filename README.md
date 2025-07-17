@@ -15,6 +15,7 @@
 </p>
 <p>
   <strong>Outros Conhecimentos:</strong><br>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/UE%20Blueprint-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE Blueprint"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
