@@ -49,7 +49,13 @@ Utilizo a arquitetura **REST (Representational State Transfer)** para construir 
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GReisOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GReisOliveira&theme=dark" alt="Streak Stats" height="190" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=greisoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="190px" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=greisoliveira&theme=dark" height="190px" alt="Streak" />
+    </td>
+  </tr>
+</table>
