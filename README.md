@@ -2,7 +2,7 @@
 
 Hi 👋, my name is Gabriel Reis!
 
-I am a Software Engineering student focused on back-end development, APIs, and AI agents, with practical experience in systems and game development. I have a strong passion for solving complex challenges and a high capacity for fast learning.
+[cite_start]I am a Software Engineering student focused on back-end development, APIs, and AI agents, with practical experience in systems and game development[cite: 328]. [cite_start]I have a strong passion for solving complex challenges and a high capacity for fast learning[cite: 14, 515].
 
 If you want to collaborate on a project (or just make small talk), don't hesitate to send me a message!
 
@@ -22,8 +22,9 @@ If you want to collaborate on a project (or just make small talk), don't hesitat
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
