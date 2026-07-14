@@ -2,7 +2,7 @@
 
 Hi 👋, my name is Gabriel Reis!
 
-[cite_start]I am a Software Engineering student focused on back-end development, APIs, and AI agents, with practical experience in systems and game development[cite: 328]. [cite_start]I have a strong passion for solving complex challenges and a high capacity for fast learning[cite: 14, 515].
+I am a Software Engineering student focused on back-end development, APIs, and AI agents, with practical experience in systems and game development[cite: 328]. [cite_start]I have a strong passion for solving complex challenges and a high capacity for fast learning.
 
 If you want to collaborate on a project (or just make small talk), don't hesitate to send me a message!
 
